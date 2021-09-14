@@ -1,0 +1,7 @@
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson01ForLoops\bin\Debug\Lesson01ForLoops.exe.config
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson01ForLoops\bin\Debug\Lesson01ForLoops.exe
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson01ForLoops\bin\Debug\Lesson01ForLoops.pdb
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson01ForLoops\obj\Debug\Lesson01ForLoops.csproj.AssemblyReference.cache
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson01ForLoops\obj\Debug\Lesson01ForLoops.csproj.CoreCompileInputs.cache
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson01ForLoops\obj\Debug\Lesson01ForLoops.exe
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson01ForLoops\obj\Debug\Lesson01ForLoops.pdb
