@@ -1,0 +1,6 @@
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson02DoWhileLoop\bin\Debug\Lesson02DoWhileLoop.exe.config
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson02DoWhileLoop\bin\Debug\Lesson02DoWhileLoop.exe
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson02DoWhileLoop\bin\Debug\Lesson02DoWhileLoop.pdb
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson02DoWhileLoop\obj\Debug\Lesson02DoWhileLoop.csproj.CoreCompileInputs.cache
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson02DoWhileLoop\obj\Debug\Lesson02DoWhileLoop.exe
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson02DoWhileLoop\obj\Debug\Lesson02DoWhileLoop.pdb
