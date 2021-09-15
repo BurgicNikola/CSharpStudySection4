@@ -1,0 +1,7 @@
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson03WhileLoop\bin\Debug\Lesson03WhileLoop.exe.config
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson03WhileLoop\bin\Debug\Lesson03WhileLoop.exe
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson03WhileLoop\bin\Debug\Lesson03WhileLoop.pdb
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson03WhileLoop\obj\Debug\Lesson03WhileLoop.csproj.AssemblyReference.cache
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson03WhileLoop\obj\Debug\Lesson03WhileLoop.csproj.CoreCompileInputs.cache
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson03WhileLoop\obj\Debug\Lesson03WhileLoop.exe
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson03WhileLoop\obj\Debug\Lesson03WhileLoop.pdb
