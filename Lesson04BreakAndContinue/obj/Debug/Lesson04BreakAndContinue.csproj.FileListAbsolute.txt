@@ -1,0 +1,7 @@
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson04BreakAndContinue\bin\Debug\Lesson04BreakAndContinue.exe.config
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson04BreakAndContinue\bin\Debug\Lesson04BreakAndContinue.exe
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson04BreakAndContinue\bin\Debug\Lesson04BreakAndContinue.pdb
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson04BreakAndContinue\obj\Debug\Lesson04BreakAndContinue.csproj.AssemblyReference.cache
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson04BreakAndContinue\obj\Debug\Lesson04BreakAndContinue.csproj.CoreCompileInputs.cache
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson04BreakAndContinue\obj\Debug\Lesson04BreakAndContinue.exe
+D:\C# study\CSharpStudySection4\CSharpStudySection4\Lesson04BreakAndContinue\obj\Debug\Lesson04BreakAndContinue.pdb
